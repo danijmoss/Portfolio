@@ -1,0 +1,143 @@
+body {
+  padding-top: 70px;
+  font-size: 18px;
+}
+
+.navbar-default {
+  background-color: #8135B9;
+  border-color: #29103C;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar- brand:visited,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand:focus {
+  color: #fff;
+} 
+
+#navbar ul li a{
+  color: #fff;
+}
+
+#navbar ul li a:hover{
+   background-color: #47CECF;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+}
+
+
+.navbar-default .navbar-toggle {
+  background-color: #47CECF;
+  border-color: #fff;
+}
+
+.navbar-default .navbar-toggle:visited {
+  background-color: #47CECF;
+  border-color: #fff;
+}
+
+.navbar-default .navbar-toggle:hover {
+  background-color: #A67EC3;
+  border-color: #fff;
+}
+
+.navbar-default .navbar-toggle:active {
+  background-color: #A67EC3;
+  border-color: #fff;
+}
+
+.navbar-default .navbar-toggle:focus {
+  background-color: #A67EC3;
+  border-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+.navbar-default .navbar-nav > .active > a {
+  background-color: #A67EC3;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: #47CECF;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.navbar-default {
+  padding: 10px 0;
+}
+
+.nav .navbar-nav ul li a:hover {
+  background-color: #47CECF;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+}
+
+header {
+  background-color: #47CECF;
+  width: 100% !important;
+  color: #fff;
+  padding-bottom: 25px;
+}
+
+#avatar {
+  margin-top: 10px;
+}
+
+h2 > i {
+  padding-right: 5px;
+}
+
+h2 a i {
+  color: #fff;
+}
+
+#portfolio {
+  background-color: #8135B9;
+  color: #fff;
+  padding-bottom: 15px;
+}
+
+#tributeTitle, .modal-body{
+  color: #000;
+}
+
+.margin-bottom15 {
+  margin-bottom: 15px;
+}
+
+#about,
+#contact {
+  background-color: #47CECF;
+  color: #fff;
+  font-weight: 500;
+  padding-bottom: 15px;
+}
+
+hr {
+  border: 2px solid #fff;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.btn-primary {
+  background-color: #8135B9;
+  border-color: #338D8E;
+}
+
+footer {
+  padding: 10px;
+}
